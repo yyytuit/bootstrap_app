@@ -57,6 +57,22 @@ app/assets/stylesheets/style.css
 
 なぜassets下ではなくpublic下なのかという理由は[こちら](https://qiita.com/wadako111/items/03bc00d914e62243a511)を参考。
 
+ちなみに今回入れた画像
+
+```
+public/images/01_150x150.png
+public/images/01_200x200.png
+public/images/02_150x150.png
+public/images/02_200x200.png
+public/images/03_150x150.png
+public/images/03_200x200.png
+public/images/04_150x150.png
+public/images/04_200x200.png
+       :
+public/images/traffic.jpg
+public/images/wood-320x240.jpg
+```
+
 ## app/assets/stylesheets/application.scssに変更
 app/assets/stylesheets/application.cssの拡張子をscssに変更
 
