@@ -549,3 +549,10 @@ application.html.erb内の以下コードで呼び出されているので移植
 これで再度動作確認を行なってみてください。
 
 以上
+
+ps
+今回使用したデモサイト
+https://demo.themewagon.com/preview/avada-plus-free-responsive-html5-agency-template
+
+使用したテンプレートのダウンロードサイト
+https://themewagon.com/themes/avada-plus-free-responsive-html5-agency-template/
