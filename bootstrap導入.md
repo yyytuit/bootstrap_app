@@ -542,6 +542,10 @@ application.html.erb内の以下コードで呼び出されているので移植
 
 ```
 
+またerbファイルの<!DOCTYPE html>〜</script>までのコードが不要なので、取りました。
+
+詳しくはapp/views/pages/index.html.erbを参照してください。
+
 これで再度動作確認を行なってみてください。
 
 以上
